@@ -1,5 +1,5 @@
 # openHASP-unofficial-firmwares
-OpenHasp firmware for some boards not included in official releases page
+OpenHasp firmware for some boards ~~not included~~ in official releases page
 
 I found out these affordable esp32 powered boards from Sunton, with a big size screen, touch interface, audio and sensors connectors...
 
