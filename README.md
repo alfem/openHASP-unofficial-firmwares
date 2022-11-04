@@ -18,3 +18,5 @@ Just dowload the needed *artifact*, and flash your board with your favourite too
 For example:
 
 esptool.py --port COM1 --baud 460800 write_flash 0x0 esp32-3248s035r_full_4MB_v0.6.3-dev_72224eb.bin
+
+NOTE: I will delete this repository as soon as firmware for Sunton boards show up in Openhasp Releases page. 
